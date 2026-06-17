@@ -9,7 +9,7 @@ stage('Checkout')
 {
 steps
 {
-'git branch:'master', url:"https://www.github.com/Shweta311204/Selenium1.git";
+'git branch:'master', url:"https://www.github.com/Shweta311204/Selenium1.git"
 }}
 stage('Build')
 {
